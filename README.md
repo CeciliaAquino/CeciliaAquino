@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cecilia Aquino</h1>
 <h3 align="center">Content Services - Video Editor & Copywriter </h3>
 
-- 🌱 I’m currently learning **- Digital House - Platzi**
+- 🌱 I’m currently working in gimnasios.com and as freelancer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
