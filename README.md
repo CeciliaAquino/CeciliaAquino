@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cecilia Aquino</h1>
-<h3 align="center">practicing --> Html, Css, React, Javascript, Java, Sql, Scrum Methodology, UX-UI ☕</h3>
+<h3 align="center">Content Services - Video Editor & Copywriter </h3>
 
 - 🌱 I’m currently learning **- Digital House - Platzi**
 
